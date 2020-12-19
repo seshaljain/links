@@ -4,3 +4,9 @@
 
 This is a collection of links I find on the internet. Bookmarks, inspiration, useful resources.
 I aim to move these to a better format sometime in the near future, but till then :D
+
+* 2020
+** 2020-12 December
+*** 2020-12-19 Saturday
+**** http://coliru.stacked-crooked.com/
+Online complier? CoLiRu, works with curl and multiple frontends
